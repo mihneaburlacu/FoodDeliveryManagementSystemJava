@@ -1,0 +1,3 @@
+Products ordered in the day Monday, cantity: 
+"Apple ""Flag"" Tart " was ordered 1
+"Apple ""Pizza"" " was ordered 1
