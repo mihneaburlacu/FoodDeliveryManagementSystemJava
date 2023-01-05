@@ -1,1 +1,0 @@
-BaseProduct: """Route 66"" Chili " 16 3.125 640 57  32 1346 

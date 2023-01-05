@@ -1,2 +1,0 @@
-Products ordered more than 3
-"""Route 66"" Chili " was ordered 6

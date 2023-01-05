@@ -1,2 +1,0 @@
-Clients that have ordered more than 3 times  and the price was greater than 10: 
-Client nr. 3: alex
